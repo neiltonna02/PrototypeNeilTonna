@@ -1,0 +1,18 @@
+names:
+- closed-eye
+- closed-mouth
+- half-closed-eye
+- open-eye
+- open-mouth
+- tilted-head
+- upright-head
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: driverdrowsiness1
+  url: https://universe.roboflow.com/mcast-lakao/driverdrowsiness1/dataset/7
+  version: 7
+  workspace: mcast-lakao
+test: test/images
+train: train/images
+val: valid/images
